@@ -1,0 +1,23 @@
+{
+  "name": "ts_mini_project",
+  "version": "1.0.0",
+  "description": "Mini Typescript Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SachinRawatLearning/TS_Mini-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SachinRawatLearning/TS_Mini-Project/issues"
+  },
+  "homepage": "https://github.com/SachinRawatLearning/TS_Mini-Project#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
